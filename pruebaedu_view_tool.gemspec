@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eduardo Medina"]
   spec.email         = ["edu.rm.85@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Put your copyright in your application.}
+  spec.description   = %q{Put your copyright in your application. You have to change de owner.}
+  spec.homepage      = "https://gitlab.com/Cold_Distance/pruebaedu_view_tool."
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.

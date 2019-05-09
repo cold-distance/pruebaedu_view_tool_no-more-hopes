@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Put your copyright in your application.}
   spec.description   = %q{Put your copyright in your application. You have to change de owner.}
-  spec.homepage      = "https://gitlab.com/Cold_Distance/pruebaedu_view_tool."
+  spec.homepage      = "https://github.com/cold-distance/pruebaedu_view_tool_no-more-hopes"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
